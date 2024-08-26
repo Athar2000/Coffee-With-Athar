@@ -1,0 +1,9 @@
+let score=33
+console.log(typeof score)
+console.log((typeof score))
+let scoree="33"
+console.log(typeof scoree)
+console.log((typeof scoree))
+let valueInNumber=Number(scoree)
+console.log(typeof valueInNumber);
+console.log( valueInNumber);
